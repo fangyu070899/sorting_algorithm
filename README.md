@@ -18,7 +18,9 @@ Just like the movement of air bubbles in the water that rise up to the surface, 
 
 Selection sort repeatedly selects the smallest (or largest) element from the unsorted portion of the list and swaps it with the first element of the unsorted part. This process is repeated for the remaining unsorted portion until the entire list is sorted.
 
-![image](https://raw.githubusercontent.com/fangyu070899/sorting_algorithm/main/image/0_1zi2XtjiLXa3LYZh.webp)
+![image](https://raw.githubusercontent.com/fangyu070899/sorting_algorithm/main/image/1.webp)
+![image](https://raw.githubusercontent.com/fangyu070899/sorting_algorithm/main/image/2.webp)
+![image](https://raw.githubusercontent.com/fangyu070899/sorting_algorithm/main/image/3.webp)
 
 ### Insertion Sort
 
@@ -26,9 +28,7 @@ The array is virtually split into a sorted and an unsorted part. Values from the
 
 To sort an array of size N in ascending order iterate over the array and compare the current element (key) to its predecessor, if the key element is smaller than its predecessor, compare it to the elements before. Move the greater elements one position up to make space for the swapped element.
 
-![image](https://raw.githubusercontent.com/fangyu070899/sorting_algorithm/main/image/1.webp)
-![image](https://raw.githubusercontent.com/fangyu070899/sorting_algorithm/main/image/2.webp)
-![image](https://raw.githubusercontent.com/fangyu070899/sorting_algorithm/main/image/3.webp)
+![image](https://raw.githubusercontent.com/fangyu070899/sorting_algorithm/main/image/0_1zi2XtjiLXa3LYZh.webp)
 
 ### Merge Sort
 
