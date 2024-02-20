@@ -12,7 +12,7 @@ Bubble sort compares two adjacent elements and swaps them until they are in the 
 
 Just like the movement of air bubbles in the water that rise up to the surface, each element of the array move to the end in each iteration. Therefore, it is called a bubble sort.
 
-![image]()
+![image](https://github.com/fangyu070899/sorting_algorithm/blob/main/image/bubble-sort-1024x683-2.webp)
 
 ### Selection Sort
 
